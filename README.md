@@ -16,7 +16,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Talking about Personal Stuff:
 
-- I’m a **Computer Science graduated **.  
+- I’m a **Computer Science graduated**.  
 - Currently working as a **Software Engineer**.  
 - Building **MERN stack projects** including AI-powered apps.  
 - I also love **playing classical guitar** and creating my own beats.
