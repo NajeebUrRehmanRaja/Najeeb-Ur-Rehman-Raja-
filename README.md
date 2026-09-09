@@ -8,11 +8,7 @@
 <br>
 
 <p>
-  I'm <b>Najeeb Ur Rehman Raja</b>, a passionate and creative <b>Full Stack Developer</b> with a strong desire to build meaningful and user-focused web applications.  
-  I enjoy turning ideas into fully functional digital products using the <b>MERN Stack</b> — <b>MongoDB, Express.js, React.js, and Node.js</b>.  
-  I’m currently doing an internship in <b>Full Stack Development</b>, where I’m gaining hands-on experience in building responsive interfaces, managing backends, and integrating APIs.  
-  As a fast learner, I’m always exploring new technologies, improving my problem-solving skills, and finding innovative ways to make the web more interactive and efficient.  
-  Outside of coding, I enjoy <b>music, guitar, and creative thinking</b> that inspires my development approach.
+  Software Engineer with Hands-on experience building, deploying, and maintaining scalable web applications and production-ready software projects. Proficient in Python, FastAPI, React, Next.js, Node.js, PostgreSQL, and Docker, with hands-on experience developing REST APIs, responsive interfaces, database solutions, and full-stack applications. Experienced in using Git and GitHub for version control, collaborative development, code management, and deployment workflows. Skilled in integrating LLMs and Claude (Anthropic API) to automate document processing, data extraction, and business workflows, with a strong focus on clean code, problem-solving, maintainability, and reliable software delivery.
 </p>
 
 
@@ -21,11 +17,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Talking about Personal Stuff:
 
 - I’m a **Computer Science graduated **.  
-- Currently working as a **Web Development Intern**.  
-- Learning **Next.js, MongoDB, and API integration**.  
+- Currently working as a **Software Engineer**.  
 - Building **MERN stack projects** including AI-powered apps.  
-- I also love **playing classical guitar** and creating my own beats.  
-- Ask me about **React, Node.js, Express, MongoDB, or JavaScript**. 
+- I also love **playing classical guitar** and creating my own beats.
 
 ---
 
@@ -52,6 +46,13 @@
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=fff&style=flat">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff&style=flat">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat">
+  <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-D97757?logo=anthropic&logoColor=fff&style=flat">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=fff&style=flat">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff&style=flat">
 </p>
 
 ---
@@ -62,8 +63,22 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=fff">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff&style=flat">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=fff&style=flat">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff&style=flat">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat">
+  <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-D97757?logo=anthropic&logoColor=fff&style=flat">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=fff&style=flat">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff&style=flat">
 </p>
 
 ---
